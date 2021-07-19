@@ -1,2 +1,0 @@
-# TAGGroup
-The Tag Group
